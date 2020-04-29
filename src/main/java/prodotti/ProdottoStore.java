@@ -38,7 +38,7 @@ public class ProdottoStore {
     }
 
     public List<Prodotto> allProdotti() {
-        return new ArrayList<>();
-        //return prodotti;
+        //return new ArrayList<>();
+        return prodotti;
     }
 }
