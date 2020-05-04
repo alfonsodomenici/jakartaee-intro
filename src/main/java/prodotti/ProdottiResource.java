@@ -27,5 +27,4 @@ public class ProdottiResource {
     public List<Prodotto> all(){
         return store.allProdotti();
     }
-    
 }
